@@ -1,1 +1,0 @@
-sudo cp sources/etc/motd /etc/motd
