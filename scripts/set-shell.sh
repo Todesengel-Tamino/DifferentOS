@@ -1,1 +1,1 @@
-sudo chsh -s /usr/bin/fish
+chsh -s /usr/bin/fish
