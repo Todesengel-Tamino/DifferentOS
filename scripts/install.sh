@@ -1,4 +1,4 @@
 #!/bin/bash
 
-bash ./install-packages.sh
-bash ./welcome.sh
+bash "$(dirname "$0")/install-packages.sh"
+bash "$(dirname "$0")/welcome.sh"
