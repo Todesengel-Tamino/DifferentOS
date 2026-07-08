@@ -1,1 +1,21 @@
+# DifferentOS
 
+A lightweight Arch-based Linux system setup script that automates the installation and configuration of essential packages and system settings.
+
+> ⚠️ **Note:** This project is still in development and is primarily available for personal testing and cloning. Please excuse any errors or incomplete features.
+
+## What it does
+
+DifferentOS is a Bash-based automation script for setting up an Arch-based Linux environment with:
+- Essential package installation (fastfetch, fish shell, git)
+- System welcome message (MOTD) customization
+- Shell configuration (switches default shell to fish)
+
+## Quick Start
+
+Clone the repository and run the installation script:
+
+```bash
+git clone https://github.com/Todesengel-Tamino/DifferentOS.git
+cd DifferentOS
+bash run-install.sh
