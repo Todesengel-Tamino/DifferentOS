@@ -1,1 +1,1 @@
-sudo pacman -S fastfetch kitty openbox git
+sudo pacman -S fastfetch fish git
