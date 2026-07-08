@@ -1,4 +1,3 @@
 fastfetch
-kitty
-openbox
+fish
 git
